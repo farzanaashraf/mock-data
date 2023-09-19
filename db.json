@@ -1,0 +1,44 @@
+{
+  "users": [{
+    "id": 1,
+    "name": "Farzana Ashraf",
+    "userName": "farzana.ashraf",
+    "password": "test@123"
+  }, {
+    "id": 2,
+    "name": "Aaadam RN",
+    "userName": "aadam",
+    "password": "test@123"
+  }],
+  "todos": [{
+    "id": 1,
+    "userId": 1,
+    "isDone":  true,
+    "title": "Buy milk"
+  }, {
+    "id": 2,
+    "userId": 1,
+    "isDone":  false,
+    "title": "Learn node.js"
+  }, {
+    "id": 3,
+    "userId": 1,
+    "isDone":  false,
+    "title": "Do evaluation"
+  }, {
+    "id": 4,
+    "userId": 2,
+    "isDone":  false,
+    "title": "Finish homework"
+  }, {
+    "id": 5,
+    "userId": 2,
+    "isDone":  false,
+    "title": "Drawing"
+  }, {
+    "id": 6,
+    "userId": 2,
+    "isDone":  true,
+    "title": "Drink milk"
+  }]
+}
